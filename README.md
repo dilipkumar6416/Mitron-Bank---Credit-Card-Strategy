@@ -5,7 +5,7 @@ Thanks for the clarification! Here's the updated README.md code with "Key Insigh
 
 # *Mitron Bank - Credit Card Strategy Dashboard*
 
-* *🚀 Live Dashboard*: [Click to View]([https://shorturl.at/Trw8r](https://app.powerbi.com/view?r=eyJrIjoiNWVkMDUwNjAtNTVmNy00MjgxLTk1ZjMtYjM5OTQ4ZThjNmVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+* *🚀 Live Dashboard*: [Click to View](https://app.powerbi.com/view?r=eyJrIjoiNWVkMDUwNjAtNTVmNy00MjgxLTk1ZjMtYjM5OTQ4ZThjNmVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
