@@ -125,6 +125,6 @@ With this pilot study, Mitron Bank is well-positioned to roll out a high-impact 
 
 ## 🤝 Let's Connect
 
-If you're working on a similar domain or would like to collaborate, feel free to connect with me on *[LinkedIn](dilip-kumar-avula-340b69318)*. I'm always open to sharing ideas and learning together!
+If you're working on a similar domain or would like to collaborate, feel free to connect with me on *[LinkedIn](dilip-kumar-avula-340b69318https://www.linkedin.com/in/dilip-kumar-avula-340b69318/)*. I'm always open to sharing ideas and learning together!
 
 ---
