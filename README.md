@@ -67,19 +67,23 @@ The dataset included customer-level information such as:
 ## 📊 Dashboard Views
 
 1. 🏠 *Home*  
-   ![Home](https://github.com/your-username/Mitron-Bank-Project/blob/main/Home.PNG)
+   ![Home](https://github.com/dilipkumar6416/Mitron-Bank---Credit-Card-Strategy/blob/main/MB%20Home.PNG)
 
 2. 👥 *Demographic View*  
-   ![Demographics](https://github.com/your-username/Mitron-Bank-Project/blob/main/Demographics.PNG)
+   ![Demographics](https://github.com/dilipkumar6416/Mitron-Bank---Credit-Card-Strategy/blob/main/MB%20Demographics.PNG)
 
 3. 💸 *Income Analysis*  
-   ![Income Analysis](https://github.com/your-username/Mitron-Bank-Project/blob/main/Income%20Analysis.PNG)
+   ![Income Analysis](https://github.com/dilipkumar6416/Mitron-Bank---Credit-Card-Strategy/blob/main/MB%20Income%20Analysis.PNG)
 
-4. 💳 *Spending Insights & Income Utilization*  
-   ![Spending](https://github.com/your-username/Mitron-Bank-Project/blob/main/Spending%20Insights.PNG)
+4. 💳 *Spending Insights*  
+   ![Spending Insights]( https://github.com/dilipkumar6416/Mitron-Bank---Credit-Card-Strategy/blob/main/MB%20Spending%20Insights.PNG)
+
+5. 💰*Income Utilization*
+   ![Income Utilization_](https://github.com/dilipkumar6416/Mitron-Bank---Credit-Card-Strategy/blob/main/MB%20Income%20Utilization.PNG)
+
 
 5. 📈 *Key Insights & Recommendations*  
-   ![Insights](https://github.com/your-username/Mitron-Bank-Project/blob/main/Key%20Insights%20and%20Recommendations.PNG)
+   ![Insights and Recommendations](https://github.com/dilipkumar6416/Mitron-Bank---Credit-Card-Strategy/blob/main/MB%20Insights%20and%20Recommendations.PNG)
 
 ---
 
@@ -121,18 +125,6 @@ With this pilot study, Mitron Bank is well-positioned to roll out a high-impact 
 
 ## 🤝 Let's Connect
 
-If you're working on a similar domain or would like to collaborate, feel free to connect with me on *[LinkedIn](https://www.linkedin.com)*. I'm always open to sharing ideas and learning together!
+If you're working on a similar domain or would like to collaborate, feel free to connect with me on *[LinkedIn](dilip-kumar-avula-340b69318)*. I'm always open to sharing ideas and learning together!
 
 ---
-
-
----
-
-To finalize:
-
-Replace all placeholder image links with your actual GitHub image URLs.
-
-Update your-username with your actual GitHub username.
-
-
-Let me know if you want me to turn this into a PDF, portfolio webpage, or LinkedIn article!
